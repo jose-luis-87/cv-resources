@@ -26,7 +26,7 @@ Antes de diseñar un perfil, define claramente quñé quieres lograr. esto podr�
     5.- Consegui tu primer empleo
     6.- Nuevo plan de carrera
 
-Materializar tu objetivo en una frase: "En seis mese quiero ser Arquitecto de soluciones"
+Materializar tu objetivo en una frase: "En seis meses quiero ser Arquitecto de soluciones"
 
 ---
 

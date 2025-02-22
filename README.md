@@ -67,7 +67,7 @@ Organiza la información de manera jerárquica, asegurándote de que los detalle
 
 ## Centraliza todo en tu CV
 
-Siguiendo los puntos anteriores, puede centralizarlo en un documento Currículum Vitae, que tenga un formatao sencillo, legible y amigable, para que pueda ser bien interpretado por los filtros de reclutamiento automátizados ATS o por las inteligencias artificiales, ten en cuenta que estos analizadores de aspirantes a través de su CV solo pueden leer estructuras de texto lineales, por lo que es recomentable usar un formato simple de una sola columna como el formato Harvard.
+Siguiendo los puntos anteriores, puede centralizarlo en un documento Currículum Vitae, que tenga un formatao sencillo, legible y amigable, para que pueda ser bien interpretado por los filtros de reclutamiento automátizados ATS o por las inteligencias artificiales, ten en cuenta que estos analizadores de aspirantes a través de su CV solo pueden leer estructuras de texto lineales, por lo que es recomentable usar un formato simple de una sola columna como el [formato Harvard](midu․link/cvt).
 
 ---
 
@@ -78,8 +78,8 @@ Siguiendo los puntos anteriores, puede centralizarlo en un documento Currículum
 **Dirección:** Calle Innovación 456, Ciudad de México, México  
 **Teléfono:** +52 55 1234 5678  
 **Correo:** juan.perez@example.com  
-**LinkedIn:** [linkedin.com/in/juanperez](https://linkedin.com/in/juanperez)  
-**GitHub:** [github.com/juanperez](https://github.com/juanperez)
+**LinkedIn:** [linkedin.com/in/juanperez]()  
+**GitHub:** [github.com/juanperez]()
 
 ---
 
@@ -165,4 +165,23 @@ _Julio 2014 – Diciembre 2015_
 
 Disponibles a solicitud.
 
+---
+
+## A quiénes y cómo buscan los reclutadores tech
+
+La realidad de este futuro presente es que los reclutadores y empresas de tecnología y diseño de productos digitales siempre buscan a los perfiles con más experiencia y competitivos, se vuelve Scounting a la NBA o NFL, Donde los equipos son las empresas que sen encuentran en búsqueda constante de equipos de desarrollo, si bien, también existen equipos o empresas que solo buscan el elemento con ciertas capacidades pero al mejor costo beneficio, actualmente he visto como lo perfiles mas competitivos realmente puede negociar y poner sus condiciones laborales ante una oferta.
+
+        - **Storytelling Personal:** Ten conciencia de cual es tu historia y cuéntala de manera profecional y acertiva, se hum,ilde y honesto no intentes ser presumido o egolatra, simplemente cuénta como has crecido y cuál ha sido tu trayectoria profesional y que acciones tomas para mantenerte competitivo, se breve y consiso. Los reclutadores odian a las estrellas o personajes de ego desbordado.
+        - **Mercado, Target y Scope: Ten encuenta a qué mercado quieres entrar, haz una investigación en las plataformas de empleo a qué target pertenece tu posición y en que rangos salariales se encuentra, que tan competida está. siempre hay que tener en cuenta con quien o qué tipo de perfiles compites. Toma en cuenta todas las características de competitividad, como stacks, tecnológicos, certificaciones,idiomas, software, ofimática, frameworks, roles específicos.
+        - **Mantente siempre localizable**: Lo reclutadores profesionales generalmente manejan un indicador en sus proceso de reclutamiento que mide que tan localizable y accesible es el aspirante, es decir si fue fácil o díficil contactarlo. SI te encuentras en un proceso de reclutamiento, tienes que mantenerte atento a los medios de comunicación disponibles en tus datos de contacto, lo reclutadores generalemente descartan aspirantes si no responden a la primera llamadas o mails. 
+
+---
+
+## Entrevistas
+
+        - Generalmente las entrevistas se realizan en fases, la primera es de perfilamiento, la segunda es de contextualización de la oferta, la tercera puede ser una prueba oral, técnica o de algun caso de estudió, a veces en la segunda entrevista te pueden contextualizar y hacer un examen oral de actitudes y aptitudes. Si te piden un prueba técnica o algun diseño o elaboración de caso de estudio, antes de aceptarlo analizalo, resuelve duda e identifica si es relaizable en el tiempo estipulado, trata de ver más a fondo y contrasta con la información que tienes de investigar a la empresa a la que estás postulando, muchas empresas disfrazan problemas reales de pruebas técnicas, a veces solucionarlo si representa un factor decisivo de contratación pero otras veces solo es un engaño, es importante poder identificar las ofertas que son estafas y las que son reales. Siempre pide feedback de colegas.
+        - **Portafolio**: Siempre ten tu portafolio a la mano, ya sea el enlace o pdf, no importa si el enlace está incrustado en tu CV, si te lo piden, exponlo y siempre ten un speach elevator para presentar tu  portafolio. Tu portafolio solo debe mostrar tus proyecto mas representativos de manera clara o consisa. Revisa los portafolios de tu competencia y mejora el tuyo si es que ya lo tienes, el portafolio asl igual que tu CV tiene que ser un proyecto iterativo con mejora continua.
+        -**Lenguaje Corporal:** Recuerda que los reclutadores odian a las "estrellas", tu lenguaje corporal puede decir mucho de ti, un buen reclutador siempre analiza tu posisción, gestos, atención, tu escucha activa, escucha mostrando antención antes de responder, mantentente, asertivo, perceptivo y optimista, no cruces lo brazos, controla tu ansiedad y disfruta de tu entrevista, recuerda que no hay más que perder y mucho que se puede ganar.
+        -**No te quedes con dudas:** Resuelve de manera clara y concisa todas tus dudas, recuerda que la entrevista tambien te permitirá analizar si realmente te conviene la oferta laboral. Pregunta sobre el salario, si la cifra es neta o bruta, cuanto es después de impuestos y retenciones, si es mensual, quincenaL o semanal, periodos de prueba y contratos, variables y bonos. Moneda de pago, Materiales y equipo de trabajo: PC, silla, escritorio, pagos de servicios. Tipo de posición híbrido, remoto, precencial, descuentos, suscripciones, vacaciones y dias libres, tipo de contratación, contractor, asalariado, freelance, consultor, etc. Plan de carrera de la posisción, porgrama de asistencias y planes de salud. Una buena oferta laboral siempre considera estos puntos.
+        -**Cierra la entrevista**. Teniendo todas tus dudas resueltas, y cuando el entrevistador te indique que la entrevista a terminado, cierra tú expresando como te sentiste y la emoción que te genera entrar a la empresa y que te consideren para la posición, el que tu cierres a la despedida es un factor que puede ser decisisvo y que lo reclutadores valoran, ya que reafirmas el interés y tus habilidades de comunicación. Siempre ten un final de tu historia impactante, las grandes historias tienen un final memorable.
 
